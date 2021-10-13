@@ -26,3 +26,15 @@ while True:
 print(f'valor da parcela {lista1}')
 print(f'quantidade de dias de atraso{lista2}')
 
+
+#atividade nova
+
+num = float(input('digite seu argumento: ')
+
+def funcao(num):
+    if num<=0
+        return 'negativo'
+    elif num>0
+        return 'positivo'
+result = funcao(num)
+print(result)
