@@ -29,7 +29,7 @@ print(f'quantidade de dias de atraso{lista2}')
 
 #atividade nova
 
-num = float(input('digite seu argumento: ')
+num = float(input('digite seu argumento: '))
 
 def funcao(num):
     if num<=0
