@@ -31,10 +31,10 @@ print(f'quantidade de dias de atraso{lista2}')
 
 num = float(input('digite seu argumento: '))
 
-def funcao(num):
-    if num<=0
+def negativo_positivo(num):
+    if num<=0:
         return 'negativo'
-    elif num>0
+    elif num>0:
         return 'positivo'
-result = funcao(num)
+result = negativo_positivo(num)
 print(result)
